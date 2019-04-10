@@ -9,5 +9,4 @@ bot.on('ready', function () {
 });
 
 
-
 bot.login(token);
